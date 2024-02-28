@@ -1,0 +1,8 @@
+.App{
+    text-align: center;
+} 
+.taskListWrapper{
+    display: flex;
+    justify-content: center;
+    /* text-align: left; */
+}
